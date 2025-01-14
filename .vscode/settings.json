@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "*.env": "properties",
-        "numbers": "cpp"
-    }
-}
